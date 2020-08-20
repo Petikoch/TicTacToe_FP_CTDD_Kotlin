@@ -18,7 +18,7 @@ Watch out
 so it is up to you and your discipline to not pollute the solution with some accidental side-effects
 * This is just an intermediate result
 ** the solution is not finished
-** not all functional calisthenics are respected (https://codurance.com/2017/10/12/functional-calisthenics/)
+** not all functional calisthenics (and object calisthenics) are respected
 
 
 August 2020
