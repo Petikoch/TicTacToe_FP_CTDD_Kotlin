@@ -16,7 +16,9 @@ Watch out
 
 * Kotlin (as Scala) does not support pure functional programming (like Haskell, ELM)
 so it is up to you and your discipline to not pollute the solution with some accidental side-effects
-
+* This is just an intermediate result
+** the solution is not finished
+** not all functional calisthenics are respected (https://codurance.com/2017/10/12/functional-calisthenics/)
 
 
 August 2020
