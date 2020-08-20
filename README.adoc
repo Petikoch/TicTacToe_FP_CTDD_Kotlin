@@ -3,7 +3,7 @@
 * Kata
 ** https://github.com/AgileTechPraxis/katalog/tree/master/Tic%20Tac%20Toe
 * Idea
-** After I did the kata in a mob programmin session using the object oriented style and Java,
+** After I did the kata in a mob programmin session using the object oriented programming style and Java,
 I wanted to try classic TDD in combination with the functional programming style and Kotlin
 
 Findings
