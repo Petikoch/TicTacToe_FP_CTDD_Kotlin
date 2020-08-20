@@ -2,20 +2,15 @@
 
 * Kata
 ** https://github.com/AgileTechPraxis/katalog/tree/master/Tic%20Tac%20Toe
-* Approach to find a solution
-** Use classic TDD (no mocking...)
-** Use functional programming
-** Use Kotlin
 * Idea
-** Find out how well this fits together
-** Create a simple version which can actually be played using the console
+** After I did the kata in a mob programmin session using the object oriented style and Java,
+I wanted to try classic TDD in combination with the functional programming style and Kotlin
 
 Findings
 
-* The approach worked fine
-* Kotlin works well to implement
-** the code in a functional style
-** immutable state (I used data classes with val, immutable maps, ...)
+* The approach with classic TDD and functional programming worked fine
+* Kotlin works well to implement the code in the functional style with
+functions and immutable state (I used data classes with val, immutable maps, ...)
 
 Watch out
 
