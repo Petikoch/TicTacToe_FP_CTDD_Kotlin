@@ -1,0 +1,29 @@
+= Intermediate result of the TicTacToe kata using classic TDD with functional programming in Kotlin
+
+* Kata
+** https://github.com/AgileTechPraxis/katalog/tree/master/Tic%20Tac%20Toe
+* Approach to find a solution
+** Use classic TDD (no mocking...)
+** Use functional programming
+** Use Kotlin
+* Idea
+** Find out how well this fits together
+** Create a simple version which can actually be played using the console
+
+Findings
+
+* The approach worked fine
+* Kotlin works well to implement
+** the code in a functional style
+** immutable state (I used data classes with val, immutable maps, ...)
+
+Watch out
+
+* Kotlin (as Scala) does not support pure functional programming (like Haskell, ELM)
+so it is up to you and your discipline to not pollute the solution with some accidental side-effects
+
+
+
+August 2020
+
+Peti Koch
